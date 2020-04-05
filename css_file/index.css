@@ -1,0 +1,20 @@
+.titleHeader{
+    text-align: center;
+    background-color: silver;
+    color:maroon;
+    font-family: 'Amiri', serif;
+
+}
+
+.linkText{
+    color: maroon;
+    font-size: large;
+
+}
+body {
+    background-image: url("https://www.kznhomeautomation.co.za/img/slide/slides/2.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+
+    /* background-color: #cccccc; */
+  }
