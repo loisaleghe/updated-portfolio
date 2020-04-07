@@ -13,6 +13,8 @@ This is an updated porfolio containing new projects that has been done
 
 * Updated LinkedIn profile
 
+* If you hover around the project, you get a short description of what the project entails
+
 ## Screenshot
 
 ![The screenshot of one of the prompts](./Images/portfolio.png)
