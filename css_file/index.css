@@ -1,6 +1,7 @@
 .titleHeader{
     text-align: center;
     background-color: silver;
+    background-size: auto;
     color:maroon;
     font-family: 'Amiri', serif;
 
@@ -18,3 +19,29 @@ body {
 
     /* background-color: #cccccc; */
   }
+
+.projectsDone{
+    margin-left: 20px;
+    margin-right: 20px;
+    align-content: center;
+}
+
+.abtME{
+    margin-bottom: 30px;
+    margin-left: 20px;
+    /* width: 1200px;
+    margin-left: 0px !important; */
+}
+
+.styling{
+    text-align: center;
+    background-color: silver;
+    background-size: auto;
+    color:maroon;
+    font-family: 'Amiri', serif;
+    
+}
+
+.pStyl{
+    font-family: 'Crimson Text', serif;
+}
