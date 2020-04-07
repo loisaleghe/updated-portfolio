@@ -17,7 +17,9 @@ This is an updated porfolio containing new projects that has been done
 
 ![The screenshot of one of the prompts](./Images/portfolio.png)
 
+## Final Output
 
+https://loisaleghe.github.io/updated-portfolio/
 
 - - -
 © 2019 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.
